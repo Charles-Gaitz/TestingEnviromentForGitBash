@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import ProcessFramework from './components/ProcessFramework';
 import CaseStudies from './components/CaseStudies';
 import Partnership from './components/Partnership';
-import Contact from './components/Contact';
+import Contact from './components/Contack';
 import Footer from './components/Footer';
 import ScrollProgress from './components/ScrollProgress';
 
